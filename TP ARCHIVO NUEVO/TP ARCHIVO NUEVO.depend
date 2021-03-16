@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1600993820 source:c:\users\luciano\desktop\tp archivo nuevo\main.cpp
+	<iostream>
+	"menu.h"
+	"Usuario_fun.h"
+	"ui.h"
+	"Fun_entrenamiento.h"
+	<cstdio>
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"Reportes.h"
+
+1600890074 c:\users\luciano\desktop\tp archivo nuevo\menu.h
+
+1600984114 source:c:\users\luciano\desktop\tp archivo nuevo\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"menu.h"
+	<cstdlib>
+	"fecha.h"
+	"Usuario_fun.h"
+	"validaciones.h"
+	"Fun_entrenamiento.h"
+	"ui.h"
+	"rlutil.h"
+	"Configuracion.h"
+	"Reportes.h"
+
+1600986840 source:c:\users\luciano\desktop\tp archivo nuevo\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"validaciones.h"
+	"fecha.h"
+	"Usuario_fun.h"
+	"rlutil.h"
+	"ui.h"
+	"iomanip"
+
+1600719130 source:c:\users\luciano\desktop\tp archivo nuevo\fecha_fun.cpp
+	<iostream>
+	<cstdlib>
+	"fecha.h"
+	<cstring>
+	"validaciones.h"
+
+1600714852 c:\users\luciano\desktop\tp archivo nuevo\fecha.h
+
+1600887526 c:\users\luciano\desktop\tp archivo nuevo\usuario_fun.h
+	"fecha.h"
+
+1600780320 source:c:\users\luciano\desktop\tp archivo nuevo\validaciones.cpp
+	<iostream>
+	<cstdlib>
+	"Usuario_fun.h"
+	<cstring>
+	<cstdio>
+	<ctype.h>
+	<conio.h>
+	"fecha.h"
+
+1600778112 c:\users\luciano\desktop\tp archivo nuevo\validaciones.h
+	"fecha.h"
+
+1600993978 source:c:\users\luciano\desktop\tp archivo nuevo\hora.cpp
+	<iostream>
+	<cstdlib>
+	"validaciones.h"
+	<cstring>
+	<ctime>
+	<cstdio>
+
+1600895742 source:c:\users\luciano\desktop\tp archivo nuevo\fun_entrenamiento.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"fecha.h"
+	"validaciones.h"
+	"Fun_entrenamiento.h"
+	"Usuario_fun.h"
+	"rlutil.h"
+	"ui.h"
+	"iomanip"
+
+1600777288 c:\users\luciano\desktop\tp archivo nuevo\fun_entrenamiento.h
+	"fecha.h"
+
+1571584340 c:\users\luciano\desktop\tp archivo nuevo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600892372 source:c:\users\luciano\desktop\tp archivo nuevo\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1600892372 c:\users\luciano\desktop\tp archivo nuevo\ui.h
+
+1600897264 source:c:\users\luciano\desktop\tp archivo nuevo\configuracion.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"Usuario_fun.h"
+	"Fun_entrenamiento.h"
+	"Configuracion.h"
+	"ui.h"
+	"rlutil.h"
+
+1600892302 c:\users\luciano\desktop\tp archivo nuevo\configuracion.h
+
+1600990374 c:\users\luciano\desktop\tp archivo nuevo\reportes.h
+
+1600993660 source:c:\users\luciano\desktop\tp archivo nuevo\reportes.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"Usuario_fun.h"
+	"Fun_entrenamiento.h"
+	"Configuracion.h"
+	"ui.h"
+	"rlutil.h"
+
